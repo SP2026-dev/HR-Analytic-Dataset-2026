@@ -1,0 +1,24 @@
+
+CREATE TABLE Recursive_CTE(
+Employee_ID INT,
+Manager_ID INT);
+
+INSERT INTO Recursive_CTE
+VALUES
+(1001, NULL),
+(1002, 1001),
+(1003, 1001),
+(1004, 1002),
+(1005, 1002),
+(1006, 1003),
+(1007, 1003),
+(1008, 1004),
+(1009, 1004),
+(1010, 1005),
+(1011, 1005),
+(1012, 1006),
+(1013, 1006),
+(1014, 1007),
+(1015, 1007);
+
+SELECT * FROM Recursive_CTE;
