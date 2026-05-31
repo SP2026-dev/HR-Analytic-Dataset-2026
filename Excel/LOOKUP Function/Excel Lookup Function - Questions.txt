@@ -1,0 +1,19 @@
+1. Using Employee_ID, retrieve the employee's First Name. (Using - VLOOKUP Function) (Created column name at AN column)
+
+2. Find the Supervisor Name using Employee_ID. (Using - XLOOKUP Function) (Created column name at AN column)
+
+3. Create a small horizontal table: (Using - HLOOKUP Function) (Created column name at E column)
+Employee_ID: 1001 , 1002, 1003
+Rating: 4,3,4
+
+4. Retrieve the employee's Department using Employee_ID.  (Using - INDEX + MATCH Function) (Created column name at AN column)
+
+5. Convert Employee Rating into Performance Grade. (Using - CHOOSE Function) (Created column name at AN column)
+
+6. Retrieve the Training Cost that is 5 rows below the current employee's Training Cost. (Using - OFFSET Function) (Created column name at AN column)
+
+7. Return the cell address of the employee's Rating. (Using - ADDRESS Function) (Created column name at AN column)
+
+8. Retrieve the value stored in cell AM2 using a text reference. (Using - INDIRECT Function) (Created column name at AN column)
+
+
