@@ -1,8 +1,0 @@
-1. Generate a list of unique States from the dataset. (Using - UNIQUE Function) (Created column name at AN column)
-
-2. Create a sequence of Employee IDs starting from 1001 for 20 employees. (Using - SEQUENCE Function) (Created column name at AN column)
-
-3. Retrieve the value stored in cell AA2 (Current Employee Rating) using a text reference. (Using - INDIRECT Function) (Created column name at AN column)
-
-
-
