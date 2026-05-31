@@ -1,0 +1,61 @@
+1. Create a column named Active_Status. (Using - IF Function) (Created column name at AN column)
+Condition:
+If Exit_Date = "No" → "Active"
+Else → "Exited"
+
+2. Create a column named Rating_Grade. (Using - IFS Function) (Created column name at AN column)
+Conditions:
+Rating 5 → Excellent
+Rating 4 → Good
+Rating 3 → Average
+Rating 2 → Poor
+Rating 1 → Worst
+
+3. Create a column named Promotion_Status. (Using - AND Function) (Created column name at AN column)
+Conditions:
+Performance_Score = "Fully Meets"
+AND
+Current_Employee_Rating >= 4
+
+Then → "Promote"
+Else → "No Promotion"
+
+4. Create a column named Attention_Status. (Using - OR Function)(Created column name at AN column)
+Conditions:
+Satisfaction_Score <= 2
+OR
+Working_Life_Balance_Score <= 2
+
+Then → "Needs Attention"
+
+5. Create a column named Cost_Per_Day. (Using - IFERROR Function) (Created column name at AN column)
+Formula:
+Training_Cost ÷ Training_Duration_Days
+
+But avoid error if duration is 0.
+
+6. Retrieve Trainer Name using Employee ID from a lookup table. If not found, display "Trainer Not Found". (Using - IFNA Function) (Created column name at AN column)
+
+7 . Convert Employee Rating into Performance Grade. (Using - SWITCH Function) (Created column name at AN column)
+
+8. Check whether exactly one of the following is true: (Using - XOR Function) (Created column name at AN column)
+Engagement Score ≥ 4
+Satisfaction Score ≥ 4
+
+9. Return TRUE if employee is Active. (Using - TRUE Function) (Created column name at AN column)
+
+10. Return FALSE when employee has exited. (Using - FALSE Function) (Created column name at AN column)
+
+11. Calculate Employee Experience Bonus. (Using - LET Function) (Created column name at AN column)
+
+Formula:
+Rating ≥ 4 → Bonus = Cost × 20%
+Otherwise Bonus = Cost × 10%
+
+
+
+
+
+
+
+
