@@ -30,14 +30,11 @@ Analysis Performed:
 - Excel Dashboard
 - Power BI Dashboard
 
-
- ![Image Alt](https://github.com/SP2026-dev/HR-Analytic-Dataset-2026/blob/f186f582de5aac19ed25b622e807a4232cfdd47c/Screenshot/HR%20Analytic%20Dataset%20-%20Excel%20Dashboard.jpg).
-
  ## Excel Dashboard
+ ![Image Alt](https://github.com/SP2026-dev/HR-Analytic-Dataset-2026/blob/f186f582de5aac19ed25b622e807a4232cfdd47c/Screenshot/HR%20Analytic%20Dataset%20-%20Excel%20Dashboard.jpg)
 
-  ![Image Alt](https://github.com/SP2026-dev/HR-Analytic-Dataset-2026/blob/f186f582de5aac19ed25b622e807a4232cfdd47c/Screenshot/HR%20Analytic%20Dataset%20-%20Power%20Bi%20Dashboard.jpg). 
-
-  ## Power BI Dashboard
+ ## Power BI Dashboard
+  ![Image Alt](https://github.com/SP2026-dev/HR-Analytic-Dataset-2026/blob/f186f582de5aac19ed25b622e807a4232cfdd47c/Screenshot/HR%20Analytic%20Dataset%20-%20Power%20Bi%20Dashboard.jpg)
 
 By: Sangeet Pandit (B-Tech IT)
 Aspiring Data Analyst | MIS Executive
